@@ -9,8 +9,6 @@
 6. [Project Structure](#project-structure)
 7. [Installation & Usage](#installation--usage)
 8. [Results & Evaluation](#results--evaluation)
-9. [Future Improvements](#future-improvements)
-10. [Author](#author)
 
 ---
 
@@ -77,6 +75,5 @@ This project is built using Python and the following core libraries:
 ## 📁 Project Structure
 ```text
 ├── Churn_Data.csv          # Raw dataset
-├── churn_prediction.py     # Main Python script / Jupyter Notebook logic
-├── requirements.txt        # Python dependencies
+├── churn_prediction.py     # Main Python script
 └── README.md               # Project documentation
